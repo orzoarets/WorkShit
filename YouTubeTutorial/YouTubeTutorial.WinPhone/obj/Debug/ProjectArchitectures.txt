@@ -1,0 +1,2 @@
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial.WinPhone\YouTubeTutorial.WinPhone.csproj;neutral
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial.csproj;neutral

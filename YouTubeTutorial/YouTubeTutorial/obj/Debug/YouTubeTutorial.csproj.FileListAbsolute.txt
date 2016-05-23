@@ -1,0 +1,13 @@
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\YouTubeTutorial.dll
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\YouTubeTutorial.pdb
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\obj\Debug\YouTubeTutorial.dll
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\obj\Debug\YouTubeTutorial.pdb
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\obj\Debug\YouTubeTutorial.dll.mdb
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\YouTubeTutorial.dll.mdb
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\obj\Debug\YouTubeTutorial.dll.mdb
+C:\Users\or.zoarets\documents\visual studio 2015\Projects\YouTubeTutorial\YouTubeTutorial\YouTubeTutorial\bin\Debug\YouTubeTutorial.dll.mdb
